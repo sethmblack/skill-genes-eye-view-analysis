@@ -3,8 +3,9 @@ name: genes-eye-view-analysis
 description: Reframe any system, behavior, or pattern from the perspective of replicating units (genes, memes, code patterns, configurations) to reveal the hidden logic in seemingly mysterious or irrational phe...
 license: MIT
 metadata:
+  version: 1.0.4081
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - gene's-eye-view-analysis
 - transformation
